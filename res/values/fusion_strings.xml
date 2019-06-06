@@ -60,4 +60,8 @@
     <string name="accent_color">Accent picker</string>
     <string name="accent_summary">Choose Your Colors</string>
 
+    <!-- Charging animation -->
+    <string name="charging_animation_title">Charging animation</string>
+    <string name="charging_animation_summary">Display an animation when the device is plugged in</string>
+
 </resources>
