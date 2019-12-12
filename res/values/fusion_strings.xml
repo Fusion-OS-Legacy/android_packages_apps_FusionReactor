@@ -93,4 +93,8 @@
     <string name="allow_signature_fake">Allow signature spoofing</string>
     <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
 
+    <!-- Smart replies -->
+    <string name="hide_smart_replies_title">Hide smart replies</string>
+    <string name="hide_smart_replies_summary">Hide smart replies to save screen space with peeking notifications</string>
+
 </resources>

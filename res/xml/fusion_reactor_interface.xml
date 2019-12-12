@@ -56,6 +56,12 @@
             android:defaultValue="100"
             android:dependency="qs_blur" />
 
+      <com.fusion.reactor.preferences.SystemSettingSwitchPreference
+        android:key="hide_smart_replies"
+        android:title="@string/hide_smart_replies_title"
+        android:summary="@string/hide_smart_replies_summary"
+        android:defaultValue="false"/>
+
 <Preference
             android:key="rounded_corners" 
             android:title="@string/corners_category_title"
