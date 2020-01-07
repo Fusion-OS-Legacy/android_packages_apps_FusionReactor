@@ -40,4 +40,11 @@
          android:fragment="com.fusion.reactor.fragments.ThemesHub" />
 
    </PreferenceCategory>
+
+<com.fusion.reactor.preferences.SystemSettingSwitchPreference
+            android:key="qs_blur"
+            android:title="@string/blur_quicksettings"
+            android:summary="@string/blur_quicksettings_subtitle"
+            android:defaultValue="true" />
+
   </PreferenceScreen>
