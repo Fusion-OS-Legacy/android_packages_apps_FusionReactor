@@ -68,4 +68,10 @@
             android:summary="@string/corners_category_summary"
             android:fragment="com.fusion.reactor.fragments.RoundedCornersSettings" />
 
+   <com.fusion.reactor.preferences.SystemSettingSwitchPreference
+        android:key="notification_headers"
+        android:title="@string/notification_headers_title"
+        android:summary="@string/notification_headers_summary"
+        android:defaultValue="true" />
+
  </PreferenceScreen>
