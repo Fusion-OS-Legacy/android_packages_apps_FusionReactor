@@ -26,7 +26,8 @@
     <string name="statusbar_title">Status bar</string>
     <string name="volume_title">Volume rockers</string>
     <string name="notifications_title">Notifications</string>
-
+    <string name="interface_title">UI Tweaks</string>
+     
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
