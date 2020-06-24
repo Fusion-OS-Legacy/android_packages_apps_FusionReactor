@@ -32,25 +32,25 @@
             android:icon="@drawable/ic_settings_statusbar"/>
 
         <!-- Quick Settings panel -->
-        <Preference
+        <!--<Preference
             android:key="quicksettings_category"
             android:title="@string/quicksettings_title"
             android:fragment="com.fusion.reactor.fragments.QuickSettings"
-            android:icon="@drawable/ic_settings_quicksettings"/>
+            android:icon="@drawable/ic_settings_quicksettings"/-->
 
         <!-- Buttons -->
-        <Preference
+        <!--Preference
             android:key="buttonsettings_category"
             android:title="@string/button_title"
             android:fragment="com.fusion.reactor.fragments.ButtonSettings"
-            android:icon="@drawable/ic_settings_buttons"/>
+            android:icon="@drawable/ic_settings_buttons"/-->
 
         <!-- Navigation Bar -->
-        <Preference
+        <!--Preference
             android:key="navigationbar_category"
             android:title="@string/navbar_title"
             android:fragment="com.fusion.reactor.fragments.NavbarSettings"
-            android:icon="@drawable/ic_settings_navbar"/>
+            android:icon="@drawable/ic_settings_navbar"/-->
 
         <!-- Gestures -->
         <Preference
@@ -67,18 +67,18 @@
             android:icon="@drawable/ic_settings_lockscreens"/>
 
         <!-- Power Menu -->
-        <Preference
+        <!--Preference
             android:key="powermenu__category"
             android:title="@string/powermenu_title"
             android:fragment="com.fusion.reactor.fragments.PowerMenuSettings"
-            android:icon="@drawable/ic_settings_powermenu"/>
+            android:icon="@drawable/ic_settings_powermenu"/-->
 
         <!-- Recents -->
-        <Preference
+        <!--Preference
             android:key="recents_category"
             android:title="@string/recents_title"
             android:fragment="com.fusion.reactor.fragments.RecentsSettings"
-            android:icon="@drawable/ic_settings_recents"/>
+            android:icon="@drawable/ic_settings_recents"/-->
 
         <!-- Notifications -->
         <Preference
