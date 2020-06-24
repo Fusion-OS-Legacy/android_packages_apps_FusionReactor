@@ -28,4 +28,16 @@
             android:defaultValue="255" />
 
     </PreferenceCategory>
+
+<PreferenceCategory
+     android:key="themes_category"
+     android:title="@string/themes_hub_title">
+
+     <Preference
+         android:key="theme_hub"
+         android:title="@string/themes_hub_title"
+         android:summary="@string/themes_hub_summary"
+         android:fragment="com.fusion.reactor.fragments.ThemesHub" />
+
+   </PreferenceCategory>
   </PreferenceScreen>

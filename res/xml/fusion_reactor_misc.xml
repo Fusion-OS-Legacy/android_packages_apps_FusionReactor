@@ -18,18 +18,6 @@
 	android:title="@string/misc_title"
         xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-<PreferenceCategory
-     android:key="themes_category"
-     android:title="@string/themes_hub_title">
-
-     <Preference
-         android:key="theme_hub"
-         android:title="@string/themes_hub_title"
-         android:summary="@string/themes_hub_summary"
-         android:fragment="com.fusion.reactor.fragments.ThemesHub" />
-
-   </PreferenceCategory>
-
     <com.fusion.reactor.preferences.SystemSettingSwitchPreference
         android:key="charging_animation"
         android:title="@string/charging_animation_title"
